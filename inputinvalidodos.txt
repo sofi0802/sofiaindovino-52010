@@ -1,0 +1,4 @@
+pila OtraPila {
+    crear([5, 6, 7])
+    empujar(8)!
+}

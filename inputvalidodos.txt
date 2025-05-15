@@ -1,0 +1,6 @@
+pila MiPila {
+    crear(["a", "b", "c"])!
+    empujar("d")!
+    sacar()!
+    mirar()!
+}
